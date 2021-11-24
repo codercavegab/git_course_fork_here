@@ -1,2 +1,10 @@
-# git_course_fork_here
-Official repository from the GIT Course you can fork and practice with
+# The Coder Cave GIT Course - Official Repo
+
+Have you taken the course and want to practice how to contribute to a project? 
+Fork this repo and add yourself to the list!
+
+
+## Add your name here!
+
+- Replace_with_your_name
+
