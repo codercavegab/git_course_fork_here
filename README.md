@@ -13,6 +13,6 @@ Fork this repo and add yourself to the list!
 - danidev78
 - AlanRMG
 - David
-- Omar
+- [Omar](https://omarL/)
 - Replace_with_your_name
 
