@@ -13,5 +13,7 @@ Fork this repo and add yourself to the list!
 - danidev78
 - AlanRMG
 - David
+- [Omar](https://omarL/)
+--- [Heiner](Just a small comment)
 - Replace_with_your_name
 
