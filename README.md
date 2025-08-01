@@ -14,6 +14,6 @@ Fork this repo and add yourself to the list!
 - AlanRMG
 - David
 - [Omar](https://omarL/)
---- Heiner
+--- [Heiner](Just a small comment)
 - Replace_with_your_name
 
